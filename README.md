@@ -20,7 +20,7 @@
 ![alt text](https://raw.githubusercontent.com/xkyrage/Tableau_geolocation/refs/heads/main/geographic_roles.png)
 
 ## Applied data source field and variable to sheet 
-### Then we applied the data source field and variable to sheet and applied maps that used spatial massure and geo dimensions
+### Then we applied the data source field and variable to sheet and applied maps that used spatial measures and geo dimensions
 ![alt text](https://raw.githubusercontent.com/xkyrage/Tableau_geolocation/refs/heads/main/geolocation.png)
 
 
